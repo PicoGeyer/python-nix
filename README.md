@@ -25,5 +25,7 @@ Once in the development environment
 /nix/store/amg302fpvi7apngpmjcck0c6g3vdxysn-python3-3.11.9-env/bin/python
 
 libvirt module should be available too
-```python -c 'import libvirt````
+```
+python -c 'import libvirt`
+```
 
