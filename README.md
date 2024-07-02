@@ -18,6 +18,11 @@ If direnv is installed, you can simply cd into the project dir to get a nix dev 
 # Without direnv
 ```nix develop``` in project dir
 
+# Usage
+Once in the development environment
+`which python` should give:
+/nix/store/amg302fpvi7apngpmjcck0c6g3vdxysn-python3-3.11.9-env/bin/python
 
-
+libvirt module should be available too
+```python -c 'import libvirt````
 
