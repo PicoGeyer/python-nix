@@ -1,9 +1,10 @@
 # python-nix
-Python project Nix setup
+Python project with Nix setup
 
-Setup instructions
-Nix make be installed
-Flakes should be enabled
+# Setup instructions
+Nix must be installed.
+
+Flakes should be enabled.
 https://nixos.wiki/wiki/Flakes
 
 For eg
